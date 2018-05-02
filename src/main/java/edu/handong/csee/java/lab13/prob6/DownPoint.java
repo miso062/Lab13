@@ -18,5 +18,4 @@ public class DownPoint {
 	{
 		return "x : " + x + " y : " + y;
 	}
-
 }

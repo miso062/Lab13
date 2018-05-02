@@ -16,5 +16,4 @@ public class Printer {
 		// print out str
 		System.out.println(str);
 	}
-
 }

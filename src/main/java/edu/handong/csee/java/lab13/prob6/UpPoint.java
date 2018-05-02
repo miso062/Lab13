@@ -18,5 +18,4 @@ public class UpPoint implements CapitalPrintable {
 	{
 		return "x : " + x + " y : " + y;
 	}
-
 }

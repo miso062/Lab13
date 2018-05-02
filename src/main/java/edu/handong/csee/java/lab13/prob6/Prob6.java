@@ -17,5 +17,4 @@ public class Prob6 {
 		Printer.print(p3);
 		Printer.print(p4);
 	}
-
 }
