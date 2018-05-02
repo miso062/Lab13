@@ -42,5 +42,4 @@ public class Master {
 		// print the pet's kind and food - dog
 		master.feed(dog);
 	}
-
 }

@@ -8,5 +8,4 @@ public class Cat extends Animal implements Pet {
 	{
 		return "(Cat!)" + "Fish";
 	}
-
 }

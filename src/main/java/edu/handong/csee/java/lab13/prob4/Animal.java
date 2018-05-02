@@ -18,5 +18,4 @@ public class Animal {
 		// print out the animal's name
 		System.out.println("Name: "+name);
 	}
-
 }

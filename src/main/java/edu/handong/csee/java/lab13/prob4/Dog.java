@@ -8,5 +8,4 @@ public class Dog extends Animal implements Pet {
 	{
 		return "(Dog!)" + "Sausage";
 	}
-
 }
